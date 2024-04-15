@@ -1,1 +1,1 @@
-0x0A inheritance of pythpn
+# 0x0A-python-inheritance
